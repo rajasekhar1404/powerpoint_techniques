@@ -1,0 +1,14 @@
+get automatic slide numbers in ppt.
+1. open the marking or animation ppt.
+2. go to view tab.
+3. select slide master.
+4. choose the blank layout.
+5. at the bottom right corner we'll have a placeholder for page number like (#) in a rectangle box.
+6. click on that rectangle box, goto shape format.
+7. click on eidt shape which is in insert shapes group.
+8. choose the Oval shape.
+9. then in the size group give the Height as - 0.91cm, and width 2.76cm.
+10. then click on shape fill give the blue color for image insert instructions template, green for marking template.
+11. enter " A " left to the (#) symbol inside the ovel, then change the text color to white.
+12. go to insert tab, click on Header & footer, tick the slide nuber check box, then click on Apply to all.
+13. then change the layout to the same one which you have created in slide master.
