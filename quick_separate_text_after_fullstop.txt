@@ -1,0 +1,15 @@
+quickly separate the whole trascript with full stops.
+1. copy the whole transcript.
+2. open ms word, take a new blank document.
+3. paste speacial as text only.
+4. enter ctrl + f ( to open find menu)
+5. click on right side drop down in navingation pane.
+6. goto replace tab.
+7. give the .(fullstop) in find what area.
+8. give the .(fullstop) in replace with area and click on more.
+9. click on special at the bottom.
+10. choose manual line break.
+11. click on replace all.
+12. click yes in the pop up.
+13. now the whole text will be separated with a enter after the fullstop.
+14. copy the whole text and paste it in your recording instr subsheet.
